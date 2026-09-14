@@ -15,4 +15,5 @@ pip install yfinance pandas matplotlib
 jupyter notebook working_capital_analyzer.ipynb
 ```
 
-![chart](
+![chart](https://github.com/user-attachments/assets/a27a14da-3e2f-48c8-aa31-564c8aa24fd0)
+
